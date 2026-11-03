@@ -11,4 +11,4 @@ improvements in version 2:
    -0 check problems,
    no latches, 20 flip-flops, 127 combinational cells, 24 ports
    (58 port bits).
-7. Openroad synthesis still working.
+7. Physical Design Done
